@@ -1,0 +1,1 @@
+print("My name is " + input("What is your name? ") + ", and I and a " + input("What is your nationality? "))
